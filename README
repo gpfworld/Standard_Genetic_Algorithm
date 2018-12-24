@@ -1,0 +1,16 @@
+Standard Genetic Algorithm C++
+
+C++ implementation of standard Genetic algorithm
+To solve real functions using binary representation.
+
+./program input_file output_file seed
+
+Read 
+-Input file with 
+
+MINVALUE MAXVALUE PRECISION
+
+for each variable.
+
+- A output file name.
+- A seed number used in random number generation.
